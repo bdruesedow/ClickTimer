@@ -40,7 +40,7 @@ Note: The Standalone version for Windows do not require any Python installation 
 3. Start `timer.exe`.
 
 
-## Build the standalon windows version
+## Build the standalone windows version
 
 ```bash
 python build.py build
