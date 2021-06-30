@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# build folder
+build/
+
+# time history text file
+time-history.txt
