@@ -2,6 +2,15 @@
 
 This is a simple application, to start a timer when a left mouse click is detected. It could be used to measure the time of a process that is initiated with a click on a button. To stop the measurement use F9 button.
 
+## Features:
+
+* start a timer on click event
+* live timer update
+* measured time will be saved in a log file
+* type a name for the time measurement that will be saved in the log file
+
+![ClickTimer](img/doku-log-file.jpg)
+
 ## Prerequisites
 
 * Python `>= 3.8.5` (may also work with earlier versions)
